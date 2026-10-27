@@ -1,0 +1,134 @@
+[
+  {
+    "id": "dl-web-01",
+    "title": "Bài tập lớn Buổi 7 - Rendering & Routing",
+    "description": "Xây dựng các trang web áp dụng các chiến lược SSG, ISR và SSR trên Next.js App Router. Tách Route Groups (public) và (app), có trang 404, loading và error boundary.",
+    "subjectSlug": "lap-trinh-web",
+    "dueDate": "2026-10-29T23:59:00+07:00",
+    "type": "assignment",
+    "submissionLink": "https://classroom.google.com/c/ptit-web-buoi7",
+    "priority": "high",
+    "createdAt": "2026-10-15T08:00:00+07:00"
+  },
+  {
+    "id": "dl-web-02",
+    "title": "Bài tập lớn Buổi 8 - Authentication & Authorization",
+    "description": "Tích hợp NextAuth (Auth.js) credentials JWT, cấu hình Middleware bảo vệ route, ma trận quyền can(role, action) và tối ưu SEO (OpenGraph, sitemap, robots, JSON-LD).",
+    "subjectSlug": "lap-trinh-web",
+    "dueDate": "2026-11-02T23:59:00+07:00",
+    "type": "assignment",
+    "submissionLink": "https://classroom.google.com/c/ptit-web-buoi8",
+    "priority": "high",
+    "createdAt": "2026-10-18T09:00:00+07:00"
+  },
+  {
+    "id": "dl-web-03",
+    "title": "Báo cáo Đồ án cuối kỳ - Lập trình Web Fullstack",
+    "description": "Nộp source code GitHub repo và video demo ứng dụng web hoàn chỉnh tích hợp cơ sở dữ liệu, phân quyền đa vai trò và deploy trên Vercel.",
+    "subjectSlug": "lap-trinh-web",
+    "dueDate": "2026-11-25T23:59:00+07:00",
+    "type": "project",
+    "submissionLink": "https://forms.gle/ptit-web-final-project",
+    "priority": "medium",
+    "createdAt": "2026-10-20T10:00:00+07:00"
+  },
+  {
+    "id": "dl-ctdl-01",
+    "title": "Lab 1 - Cài đặt Cây nhị phân tìm kiếm cân bằng (AVL)",
+    "description": "Cài đặt thuật toán chèn, xoá và các phép quay đơn, quay kép trên cây AVL bằng C++ hoặc Java. Đánh giá độ phức tạp thời gian.",
+    "subjectSlug": "ctdl-gt",
+    "dueDate": "2026-10-25T23:59:00+07:00",
+    "type": "lab",
+    "submissionLink": "https://codeptit.edu.vn/training/problem/AVL01",
+    "priority": "medium",
+    "createdAt": "2026-10-10T14:00:00+07:00"
+  },
+  {
+    "id": "dl-ctdl-02",
+    "title": "Lab 2 - Thuật toán Đồ thị Dijkstra & Bellman-Ford",
+    "description": "Tìm đường đi ngắn nhất trên đồ thị có trọng số. Xử lý các trường hợp đồ thị có chu trình âm với thuật toán Bellman-Ford.",
+    "subjectSlug": "ctdl-gt",
+    "dueDate": "2026-10-31T23:59:00+07:00",
+    "type": "lab",
+    "submissionLink": "https://codeptit.edu.vn/training/problem/GRAPH02",
+    "priority": "high",
+    "createdAt": "2026-10-16T11:00:00+07:00"
+  },
+  {
+    "id": "dl-ctdl-03",
+    "title": "Thi trắc nghiệm Giữa kỳ môn CTDL & GT",
+    "description": "Kiểm tra kiến thức từ chương 1 đến chương 4 (Độ phức tạp giải thuật, Danh sách liên kết, Cây, Đồ thị). Phòng máy A2-Lab3.",
+    "subjectSlug": "ctdl-gt",
+    "dueDate": "2026-11-08T08:00:00+07:00",
+    "type": "exam",
+    "submissionLink": "",
+    "priority": "high",
+    "createdAt": "2026-10-22T15:00:00+07:00"
+  },
+  {
+    "id": "dl-csdl-01",
+    "title": "Bài tập Phân mảnh ngang và Phân mảnh dọc CSDL",
+    "description": "Xây dựng lược đồ phân mảnh tối ưu cho bài toán Quản lý bán hàng chuỗi siêu thị. Chứng minh tính đầy đủ, tính tách biệt và tái thiết lập.",
+    "subjectSlug": "csdl-phan-tan",
+    "dueDate": "2026-10-30T17:00:00+07:00",
+    "type": "assignment",
+    "submissionLink": "https://lms.ptit.edu.vn/mod/assign/view.php?id=8923",
+    "priority": "medium",
+    "createdAt": "2026-10-14T08:30:00+07:00"
+  },
+  {
+    "id": "dl-csdl-02",
+    "title": "Mô phỏng Giao thức Two-Phase Commit (2PC)",
+    "description": "Viết chương trình mô phỏng Điều phối viên (Coordinator) và các Người tham gia (Participants) khi thực hiện commit giao dịch phân tán.",
+    "subjectSlug": "csdl-phan-tan",
+    "dueDate": "2026-11-10T23:59:00+07:00",
+    "type": "assignment",
+    "submissionLink": "https://lms.ptit.edu.vn/mod/assign/view.php?id=8945",
+    "priority": "medium",
+    "createdAt": "2026-10-21T09:00:00+07:00"
+  },
+  {
+    "id": "dl-csdl-03",
+    "title": "Bảo vệ Đồ án Hệ Quản trị CSDL Phân tán",
+    "description": "Báo cáo slide và chạy demo hệ thống cơ sở dữ liệu phân tán 3 site kết nối qua mạng LAN ảo.",
+    "subjectSlug": "csdl-phan-tan",
+    "dueDate": "2026-11-28T13:30:00+07:00",
+    "type": "project",
+    "submissionLink": "https://forms.gle/ptit-csdl-doan",
+    "priority": "high",
+    "createdAt": "2026-10-23T16:00:00+07:00"
+  },
+  {
+    "id": "dl-attt-01",
+    "title": "Thực hành Khai thác lỗ hổng Web SQL Injection & XSS",
+    "description": "Thực hiện tấn công có kiểm soát trên môi trường DVWA và WebGoat. Viết tài liệu giải thích cơ chế phòng chống bằng Prepared Statement và Input Sanitization.",
+    "subjectSlug": "attt",
+    "dueDate": "2026-11-04T23:59:00+07:00",
+    "type": "lab",
+    "submissionLink": "https://classroom.google.com/c/attt-ptit-lab1",
+    "priority": "high",
+    "createdAt": "2026-10-17T13:00:00+07:00"
+  },
+  {
+    "id": "dl-attt-02",
+    "title": "Triển khai Chữ ký số và Chứng chỉ X.509 với OpenSSL",
+    "description": "Tự tạo Certificate Authority (CA) nội bộ, phát hành chứng chỉ SSL/TLS cho web server và kiểm tra bắt gói tin mã hóa qua Wireshark.",
+    "subjectSlug": "attt",
+    "dueDate": "2026-11-14T23:59:00+07:00",
+    "type": "assignment",
+    "submissionLink": "https://classroom.google.com/c/attt-ptit-lab2",
+    "priority": "medium",
+    "createdAt": "2026-10-24T10:00:00+07:00"
+  },
+  {
+    "id": "dl-attt-03",
+    "title": "Đánh giá An ninh & Báo cáo Kiểm thử xâm nhập (Pentest)",
+    "description": "Báo cáo kiểm thử lỗ hổng theo chuẩn OWASP ASVS cho hệ thống cổng thông tin sinh viên giả lập.",
+    "subjectSlug": "attt",
+    "dueDate": "2026-11-20T23:59:00+07:00",
+    "type": "project",
+    "submissionLink": "https://forms.gle/ptit-attt-report",
+    "priority": "high",
+    "createdAt": "2026-10-25T11:00:00+07:00"
+  }
+]

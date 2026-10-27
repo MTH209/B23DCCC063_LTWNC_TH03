@@ -1,0 +1,16 @@
+[
+  {
+    "id": "usr-admin-01",
+    "email": "admin@ptit.edu.vn",
+    "passwordHash": "$2b$10$mNxCRM136xsQKc4h.x2Q/uDiLFpzUhSxD3a3LPfaLpJtDZ4llHawm",
+    "name": "Nguyễn Văn Admin (Lớp trưởng D23CNPM)",
+    "role": "admin"
+  },
+  {
+    "id": "usr-sv-02",
+    "email": "sv@ptit.edu.vn",
+    "passwordHash": "$2b$10$CCOQ8wjBlBwkP4dmOkQj5uwlNuOD5XVfTk.vkebdL2z6Z8XNC6DHS",
+    "name": "Trần Sinh Viên (B23DCCN001)",
+    "role": "user"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "lap-trinh-web",
+    "code": "INT1434",
+    "name": "Lập trình Web",
+    "credits": 3,
+    "teacher": "TS. Nguyễn Mạnh Hùng",
+    "room": "A2-301 (Cơ sở Hà Đông)",
+    "description": "Nghiên cứu kiến trúc ứng dụng Web hiện đại, Next.js App Router, SSR, SSG, ISR, bảo mật API, SEO và tối ưu hiệu năng frontend/backend.",
+    "color": "#0284c7",
+    "badge": "Chuyên ngành"
+  },
+  {
+    "slug": "ctdl-gt",
+    "code": "INT1306",
+    "name": "Cấu trúc dữ liệu & Giải thuật",
+    "credits": 4,
+    "teacher": "PGS.TS. Trần Thị Bình",
+    "room": "A3-204 (Cơ sở Hà Đông)",
+    "description": "Nắm vững các cấu trúc dữ liệu nền tảng (cây, đồ thị, bảng băm) và kỹ thuật thiết kế giải thuật tối ưu hóa trong khoa học máy tính.",
+    "color": "#0284c7",
+    "badge": "Cơ sở ngành"
+  },
+  {
+    "slug": "csdl-phan-tan",
+    "code": "INT1415",
+    "name": "Cơ sở dữ liệu phân tán",
+    "credits": 3,
+    "teacher": "TS. Lê Quang Dũng",
+    "room": "A2-405 (Cơ sở Hà Đông)",
+    "description": "Tìm hiểu kiến trúc phân mảnh dữ liệu, giao thức đồng thuận, tính toán phân tán, mô hình CAP và cơ chế transaction 2-Phase Commit.",
+    "color": "#0284c7",
+    "badge": "Chuyên sâu"
+  },
+  {
+    "slug": "attt",
+    "code": "INT1440",
+    "name": "An toàn thông tin mạng",
+    "credits": 3,
+    "teacher": "ThS. Phạm Ngọc Minh",
+    "room": "A1-102 (Cơ sở Hà Đông)",
+    "description": "Nguyên lý mật mã học, mã hóa khóa công khai RSA/AES, xác thực ủy quyền OAuth2/JWT, phát hiện và phòng vệ các lỗ hổng OWASP Top 10.",
+    "color": "#0284c7",
+    "badge": "Chuyên ngành"
+  }
+]
