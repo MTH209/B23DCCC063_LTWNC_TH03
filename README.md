@@ -94,7 +94,7 @@ Hệ thống hỗ trợ 2 phương thức đăng nhập linh hoạt:
 
 Ứng dụng được đo kiểm trên trình duyệt Google Chrome (Desktop) tại môi trường Production đã biên dịch (`npm run build && npm run start`):
 
-![Báo cáo điểm số Google Lighthouse](docs/lighthouse-scores.png)
+![Báo cáo điểm số Google Lighthouse](docs/lighthouse-score.png)
 
 ### 3.1. Bảng điểm 4 hạng mục tiêu chuẩn
 - 🟢 **Performance (Hiệu năng)**: **94 / 100**
@@ -116,7 +116,7 @@ Hệ thống hỗ trợ 2 phương thức đăng nhập linh hoạt:
 
 Khi truy cập `view-source:http://localhost:3000/deadlines/1` (hoặc `/deadlines/dl-web-01`), trình duyệt nhận trực tiếp mã nguồn HTML hoàn chỉnh đã được Server/ISR biên dịch sẵn:
 
-![Ảnh chụp View-Source của /deadlines/1](docs/view-source-deadlines-1.png)
+![Ảnh chụp View-Source của /deadlines/1](docs/view-source-dl1.png)
 
 ### Phân tích bằng chứng Pre-rendering & SEO:
 1. **Thẻ `<title>` và `<meta name="description">` động**:
@@ -179,8 +179,8 @@ Dự án Class Deadline Hub áp dụng bảo vệ toàn diện 3 tầng độc l
 baith_3/
 ├── docs/                             # Ảnh chụp báo cáo kiểm thử & tài liệu
 │   ├── npm-run-build.png             # Kết quả npm run build
-│   ├── lighthouse-scores.png         # Điểm số Google Lighthouse 94-100
-│   └── view-source-deadlines-1.png   # Ảnh view-source /deadlines/1
+│   ├── lighthouse-score.png          # Điểm số Google Lighthouse 95/100
+│   └── view-source-dl1.png           # Ảnh view-source /deadlines/1
 ├── src/
 │   ├── app/                          # Next.js App Router
 │   │   ├── (app)/                    # Route Group nhóm tính năng yêu cầu đăng nhập
